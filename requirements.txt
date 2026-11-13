@@ -1,0 +1,9 @@
+numpy
+pandas
+geopandas
+mapclassify
+matplotlib>=3.10
+matplotlib-scalebar
+colorspacious
+colorcet
+jupyter

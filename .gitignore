@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.quarto/
+*_files/
+.DS_Store
+Thumbs.db
